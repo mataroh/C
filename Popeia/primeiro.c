@@ -1,7 +1,13 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-// printf - Função que imprime algo na tela.
+/* COMENTÁRIOS
+printf - Função que imprime algo na tela.
+ /n - SubCódigo para pular linha
+<stdlib.h> - chama a função "system ("pause")" para parar o programa
+*/
 
 int main () {
     printf("Hello, Word!\n");
+//    system ("pause");
 }
