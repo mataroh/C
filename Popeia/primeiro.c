@@ -10,4 +10,5 @@ printf - Função que imprime algo na tela.
 int main () {
     printf("Hello, Word!\n");
 //    system ("pause");
+
 }
